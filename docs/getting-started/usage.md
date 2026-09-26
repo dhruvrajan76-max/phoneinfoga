@@ -1,4 +1,5 @@
-### Running a scan
+phoneinfoga scan -n +919049697157
+
 
 Use the `scan` command with the `-n` (or `--number`) option.
 
